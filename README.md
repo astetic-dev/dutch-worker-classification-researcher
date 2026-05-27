@@ -36,6 +36,7 @@ If its output reads like a Wikipedia paragraph on art. 7:610 BW, it has failed.
 
 ### The folder
 ```
+CLAUDE.md          ← entry point: makes Claude become Lex + which files to read, in order
 README.md          ← how to use it (NL + EN)
 identity.md        ← who Lex is + exact scope
 rules.md           ← HOW it researches (the investigative core)
