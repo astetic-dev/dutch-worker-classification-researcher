@@ -46,6 +46,9 @@ reference/
   vindplaatsen.md             ← where to find/verify (free vs paywalled, ECLI deeplinks, fetch-and-verify)
   kernbegrippen.md            ← key concepts (gezichtspunten, gezag, inbedding, rechtsvermoeden)
   kernarresten-en-wetgeving.md ← the VERIFIED factual spine (rulings + statute + bill status, dated)
+demo/
+  voorbeeld-it-contractor-uitgewerkt.md ← worked borderline-case demo, end-to-end
+  demo-draaiboek.md                     ← run-book: prompts to drive the demo yourself
 ```
 Each file does one job — folders as architecture, interpretable context. Keep `kernarresten-en-wetgeving.md` current; this domain dates fast.
 

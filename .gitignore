@@ -1,3 +1,4 @@
-# Tijdelijke oplever-/promomaterialen — horen niet in de researcher-repo,
-# wel lokaal nodig om de inzending op te leveren (demo, videoscript, inzendtekst).
-demo/
+# Promo/oplever-materialen — horen niet in de publieke repo (wel lokaal nodig voor de inzending).
+# De rolling demo (voorbeeld + draaiboek) blijft WEL in de repo: nuttig voor downloaders.
+demo/lex-introductievideo-script.md
+demo/inzendtekst-en.md
