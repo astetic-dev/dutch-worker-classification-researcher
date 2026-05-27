@@ -7,6 +7,11 @@
 
 *Drop this folder into a Claude Project. Claude becomes Lex. / Zet deze map in een Claude Project. Claude wordt Lex.*
 
+**▶️ Intro video / Introductievideo** — Nederlands gesproken, Engelse ondertiteling (~80 sec).
+<!-- VIDEO-PLACEHOLDER: vervang `#` hieronder door de YouTube-URL zodra opgeleverd; optioneel de badge vervangen door een thumbnail-link [![alt](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](URL). -->
+[![Watch the intro on YouTube](https://img.shields.io/badge/Watch-Intro%20video-FF0000?logo=youtube&logoColor=white)](#)
+<br>*🎬 Link volgt bij oplevering / to be added on delivery.*
+
 **English readers:** jump to [🇬🇧 English](#-english). **Nederlandstalig:** ga naar [🇳🇱 Nederlands](#-nederlands).
 
 ---
